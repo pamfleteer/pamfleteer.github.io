@@ -1,0 +1,22 @@
+.divNavContent{
+	width:100%;
+	height:50px;
+}
+.logoNav{
+	margin: 0.5rem;
+	width:150px;
+	height:40px;
+}
+@media screen and (max-width: 736px) {
+.divNavContent{
+	margin-left:0rem;
+}
+}
+@media screen and (min-width: 737px) {
+#page-wrapper{
+	padding-top:1rem;
+}
+.divNavContent{
+	margin-left:4rem;
+}
+}
