@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://www.trafalescu.ro
+Sitemap: http://www.trafalescu.ro/sitemap.xml
